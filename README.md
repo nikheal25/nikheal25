@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything that I come across 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make iOS apps and websites just for fun. So if you want one hit me 🥊
+- ⚡ Fun fact: I love to make iOS apps and websites just for fun. So if you want one hit me up 🥊
 
 ### Connect with me:
 
