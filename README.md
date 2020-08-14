@@ -1,4 +1,4 @@
-### Hi there, I'm Nick
+### Hello there, I'm Nick
 
 ## I'm a iOS app Developer, Full-Stack Web Developer and Teacher!
 
