@@ -80,7 +80,7 @@ my 5 infinity stones
 
 ---
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: Recent Github Activity</summary> -->
   
   <!--START_SECTION:activity-->
@@ -93,14 +93,14 @@ my 5 infinity stones
 
   <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: Github Stats</summary> -->
 
   <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
-</details>
+<!-- </details> -->
 
 [website]: https://nikheal25.github.io/MDB-Portfolio/
 [twitter]: https://twitter.com/
