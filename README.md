@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on as a MERN developer & iOS app developer 📱
 - 🌱 I’m currently learning everything that I come across 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make iOS apps and websites just for fun. So if you want one hit me up 🥊
 
 ### Connect with me:
