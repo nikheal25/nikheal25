@@ -1,114 +1,161 @@
-### Hello there, I'm Nick
+```ascii
+  _   _ _      _    
+ | \ | (_)    | |   
+ |  \| |_  ___| | __
+ | . ` | |/ __| |/ /
+ | |\  | | (__|   < 
+ |_| \_|_|\___|_|\_\
+```
 
-## I'm a iOS app Developer, Full-Stack Web Developer and Teacher!
+<div align="center">
 
-- 👨‍💻 I’m currently working on as a MERN developer & iOS app developer 📱
-- 🌱 I’m currently learning everything that I come across 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make iOS apps and websites just for fun. So if you want one hit me up 🥊
+# 🤖 AI Architect | 👨‍💻 Team Lead | 🚀 Tech Innovator
 
-### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nick-gholap/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://nikheal25.github.io/MDB-Portfolio/)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-<br />
-
-### Languages and Technologies:
-
-<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />] -->
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][] -->
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<br />
-<br />
-
-<!--
-THANOS Joke
-******************************************************
-my 5 infinity stones
-******************************************************
- -->
-
-### Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-<br />
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-
-<!-- - [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc) -->
-<!-- YOUTUBE:END -->
+</div>
 
 ---
 
-<!-- ### 📕 Latest Blog Posts -->
+```ascii
+    🧠 Building the Future with AI 🌟
+```
 
-<!-- BLOG-POST-LIST:START -->
+## 🎯 What I Do
 
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
-<!-- BLOG-POST-LIST:END -->
+```python
+class AIArchitect:
+    def __init__(self):
+        self.name = "Nick"
+        self.role = "AI Applications Architect"
+        self.language_spoken = ["en_US", "Python", "JavaScript", "AI"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AIArchitect()
+me.say_hi()
+```
+
+- 👨‍💻 Currently leading teams and architecting AI-powered applications
+- 🤖 Specializing in Large Language Models (LLMs) and AI systems integration
+- 🌱 Passionate about exploring cutting-edge AI technologies and best practices
+- 👯 Looking to collaborate on innovative AI and full-stack projects
+- 🥅 2024 Goals: Contribute to advancing AI application architecture patterns
 
 ---
 
-<!-- <details> -->
-  <!-- <summary>:zap: Recent Github Activity</summary> -->
-  
-  <!--START_SECTION:activity-->
-<!-- 
-1. ❗️ Opened issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#3](https://github.com//codeSTACKr/codeSTACKr/pull/3) in [codeSTACKr/codeSTACKr](https://github.com//codeSTACKr/codeSTACKr)
-3. 🎉 Merged PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
-4. 💪 Opened PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
-5. 🎉 Merged PR [#2](https://github.com//kubowania/battleships/pull/2) in [kubowania/battleships](https://github.com//kubowania/battleships) -->
+## 💻 Tech Arsenal
 
-  <!--END_SECTION:activity-->
+### 🧠 AI/ML Powerhouse
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+  <div>
+    <img align="left" alt="LangChain" width="26px" src="https://avatars.githubusercontent.com/u/118600045?s=200&v=4" />
+    <span>LangChain</span>
+  </div>
+  <div>
+    <img align="left" alt="LangGraph" width="26px" src="https://avatars.githubusercontent.com/u/118600045?s=200&v=4" />
+    <span>LangGraph</span>
+  </div>
+  <div>
+    <img align="left" alt="AutoGen" width="26px" src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen-logo.png" />
+    <span>AutoGen</span>
+  </div>
+  <div>
+    <img align="left" alt="LlamaIndex" width="26px" src="https://avatars.githubusercontent.com/u/118600183?s=200&v=4" />
+    <span>LlamaIndex</span>
+  </div>
+  <div>
+    <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" />
+    <span>OpenAI</span>
+  </div>
+  <div>
+    <img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+    <span>Hugging Face</span>
+  </div>
+  <div>
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <span>Python</span>
+  </div>
+  <div>
+    <img align="left" alt="FastAPI" width="26px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+    <span>FastAPI</span>
+  </div>
+  <div>
+    <img align="left" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />
+    <span>Streamlit</span>
+  </div>
+  <div>
+    <img align="left" alt="Pinecone" width="26px" src="https://avatars.githubusercontent.com/u/73563146?s=200&v=4" />
+    <span>Pinecone</span>
+  </div>
+</div>
 
-<!-- </details> -->
+### ⚡ Full-Stack Arsenal
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <div>
+    <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <span>React</span>
+  </div>
+  <div>
+    <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <span>Node.js</span>
+  </div>
+  <div>
+    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    <span>MongoDB</span>
+  </div>
+  <div>
+    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    <span>SQL</span>
+  </div>
+</div>
 
-<!-- <details> -->
-  <!-- <summary>:zap: Github Stats</summary> -->
+---
 
-  <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+```ascii
+    🎯 Key Achievements & Expertise 🎯
+```
 
-<!-- </details> -->
+### 🌟 Specializations
+
+```ascii
+├── AI Architecture
+│   ├── LLM Integration
+│   ├── Prompt Engineering
+│   └── AI Pipeline Design
+├── Team Leadership
+│   ├── Technical Mentorship
+│   └── Project Management
+└── Full-Stack Development
+    ├── MERN Stack
+    └── iOS Development
+```
+
+### 📈 Experience Level
+
+```ascii
+AI Projects Delivered    ████████████████░░  80%
+Team Leadership         ███████████████████  95%
+Code Quality           ████████████████░░░   75%
+Learning Speed         ████████████████████  100%
+```
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing!
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://nikheal25.github.io/MDB-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nick-gholap/)
+
+```ascii
+    🚀 Always ready for the next big challenge! 🚀
+```
+
+</div>
 
 [website]: https://nikheal25.github.io/MDB-Portfolio/
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/nick-gholap/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
